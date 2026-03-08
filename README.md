@@ -1,3 +1,6 @@
 # Mod
 MY TEST MOD :)
 WATCH OUT FOR MOD NAME CONFLICTS BECAUSE ITS NAME IS com.mod.mod
+
+All the items are in creative tab
+SMILE!
